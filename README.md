@@ -12,4 +12,4 @@ and became slighty a small develeopment-board for e.g.
 - has an (optional) EEPROM on board
 - and some free space for your own components
 
-For more please read the short [description](Arduino-LocoNET-Shield%20V2%20(en).pdf) ([german](Arduino-LocoNET-Shield%20V2%20(de).pdf))
+For more please read the short [description](Documentation/Arduino-LocoNET-Shield%20V2%20(en).pdf) ([german](Documentation/Arduino-LocoNET-Shield%20V2%20(de).pdf))
